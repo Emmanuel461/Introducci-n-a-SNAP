@@ -89,11 +89,11 @@ Abrir archivos en SNAP
 <p>En <strong>View/Tool Windows</strong> se puede añadir a la vista de la interfaz diferentes pestañas para analizar u observar los datos de la imagen (Fig 6).</p>
 
 <img src="https://github.com/Emmanuel461/Introducci-n-a-SNAP/blob/main/Im%C3%A1genes/Fig7.png">
-<h4 id="Sección3">Fig 7. Añadir ventanas a la interfaz de inicio de SNAP.</strong>.</h4>
+<h4 id="Sección3">Fig 7. Añadir ventanas a la interfaz de inicio de SNAP.</h4>
 
 <p> El software contiene una caja de herramienta/Toolbox para el preprocesamiento y procesamiento especializado de imágenes radar (Radar) (Fig 8).</p>
 <img src="https://github.com/Emmanuel461/Introducci-n-a-SNAP/blob/main/Im%C3%A1genes/Fig8.png">
-<h4 id="Sección3">Fig 8. Toolbox Radar en SNAP.</strong>.</h4>
+<h4 id="Sección3">Fig 8. Toolbox Radar en SNAP.</h4>
 
 <h2 id="Sección4">4. Interpretando una imagen radar.</h2>
 
@@ -104,20 +104,21 @@ Abrir archivos en SNAP
 <li>2. Retrodispersión por volumen (dosel del bosque)</li>
 <li>3. Retrodispersión por doble rebote (bosques/ infraestructura/ suelos muy rugosos y húmedos)</li>
 
+
 <img src="https://github.com/Emmanuel461/Introducci-n-a-SNAP/blob/main/Im%C3%A1genes/Fig9.png">
-<h4 id="Sección3">Fig 9. Tipos de respuesta en la retrodispersión según características de la cobertura.</strong>.</h4>
+<h4 id="Sección3">Fig 9. Tipos de respuesta en la retrodispersión según características de la cobertura.</h4>
 
 <img src="https://github.com/Emmanuel461/Introducci-n-a-SNAP/blob/main/Im%C3%A1genes/Fig10.png">
-<h4 id="Sección3">Fig 10. Retrodispersión especular (1), de superficie áspera (2) y por volumen (3).</strong>.</h4>
+<h4 id="Sección3">Fig 10. Retrodispersión especular (1), de superficie áspera (2) y por volumen (3).</h4>
 
 <img src="https://github.com/Emmanuel461/Introducci-n-a-SNAP/blob/main/Im%C3%A1genes/Fig11.png">
-<h4 id="Sección3">Fig 11. Retrodispersión en superficie áspera en aparente condición de suelo seco..</strong>.</h4>
+<h4 id="Sección3">Fig 11. Retrodispersión en superficie áspera en aparente condición de suelo seco.</h4>
 
 <img src="https://github.com/Emmanuel461/Introducci-n-a-SNAP/blob/main/Im%C3%A1genes/Fig12.png">
-<h4 id="Sección3">Fig 12. Retrodispersión de doble rebote en bosque ribereño.</strong>.</h4>
+<h4 id="Sección3">Fig 12. Retrodispersión de doble rebote en bosque ribereño.</h4>
 
 <img src="https://github.com/Emmanuel461/Introducci-n-a-SNAP/blob/main/Im%C3%A1genes/Fig13.png">
-<h4 id="Sección3">Fig 13. Retrodispersión de doble rebote en área urbana.</strong>.</h4>
+<h4 id="Sección3">Fig 13. Retrodispersión de doble rebote en área urbana.</h4>
 
 <img src="https://github.com/Emmanuel461/Introducci-n-a-SNAP/blob/main/Im%C3%A1genes/Fig14.png">
-<h4 id="Sección3">Fig 14. RPerfil de valores de retrodispersión, se evidencia de forma gráfica la variación en los valores para la polarización VV, retrodispersión especular (1), retrodispersión en superficie áspera (2) y de doble rebote en área urbana (3).</strong>.</h4>
+<h4 id="Sección3">Fig 14. RPerfil de valores de retrodispersión, se evidencia de forma gráfica la variación en los valores para la polarización VV, retrodispersión especular (1), retrodispersión en superficie áspera (2) y de doble rebote en área urbana (3).</h4>
