@@ -24,7 +24,7 @@ Este proyecto está coordinado por el Dr Edgar Espinoza Cisneros y co-cordinado 
 <a href="http://step.esa.int/main/download/snap-download/" target="_blank">http://step.esa.int/main/download/snap-download/</a>
  
   
-<h2 id="Sección2">Objetivos de aprendizaje</h2>
+<h2 id="Sección2">Objetivos de aprendizaje</h2> 
 
 <li>Explorar la interfaz del software SNAP.</li>
 <li>Visualizar imágenes del radar Sentinel 1</li>
@@ -32,7 +32,7 @@ Este proyecto está coordinado por el Dr Edgar Espinoza Cisneros y co-cordinado 
 
 
 
-<h3 2.1 Datos a descargar/h3>
+<h2 ">2.1 Datos a descargar</h2> 
 
 <p> Los datos a utilizar en este ejercicio se pueden descargar en el siguiente link: </p>
 <a href="https://www.dropbox.com/sh/xb6nb8qwva3e0l8/AACgAV2tx4xtUFa1QtDZKZxUa?dl=0" target="_blank">https://www.dropbox.com/sh/xb6nb8qwva3e0l8/AACgAV2tx4xtUFa1QtDZKZxUa?dl=0</a>
