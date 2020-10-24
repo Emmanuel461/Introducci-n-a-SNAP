@@ -6,16 +6,16 @@
 
 <p>Este manual fue elaborado por la Escuela de Geografía de la Universidad de Costa Rica, para el cual colaboraron Jesús Céspedes-Rivera y Cristian Aguilar-Barboza en calidad de asistentes avanzados del proyecto "Transformación digital: Incorporación de tecnología SAR en la gestión de riesgos, agricultura y recursos naturales para Centroamérica", en el marco del proyecto UCREA-IICA.
 Este proyecto está coordinado por el Dr Edgar Espinoza Cisneros y co-cordinado por MSc María José Molina Montero. Para mayor información contactar a maria.molinamontero@ucr.ac.cr .</p>
-<p> La descarga del software SNAP se puede realizar en la siguiente dirección electrónica</p> 
-<a href="http://step.esa.int/main/download/snap-download/" target="_blank">http://step.esa.int/main/download/snap-download/</a>
+
  
 
 <p> Índice </p> 
+ 
  <li><a href="#Sección1">Prerrequisitos</a></li>
  <li><a href="#Sección2">Objetivos de aprendizaje</a></li>
 
  
-<h3 id="Sección1>Prerrequisitos</h3>
+<h2 id="Sección1>Prerrequisitos</h3>
         <p>
         Para ejecutar esta rutina el usuario debe instalar previamente el software Sentinel Toolbox (SNAP), el cual es un software de procesamiento para el análisis y observación
         de la tierra, con herramientas enfocadas en extensibilidad de datos, portabilidad, procesamiento en marcos gráficos, entre otras herramientas (ESA, 2020).</p>
@@ -25,7 +25,7 @@ Este proyecto está coordinado por el Dr Edgar Espinoza Cisneros y co-cordinado 
  
  
  
-<h3 id="Sección2>Objetivos de aprendizaje</h3>
+<h2 id="Sección2>Objetivos de aprendizaje</h3>
         <ul>
 <li>-Explorar la interfaz del software SNAP.</li>
 <li>Visualizar imágenes del radar Sentinel 1</li>
