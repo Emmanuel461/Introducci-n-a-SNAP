@@ -77,7 +77,7 @@ Abrir archivos en SNAP
 
 <p>Para visualizar la imagen radar, presione doble click sobre cada una de las bandas <strong>Sigma0_VH y Sigma0_VV</strong> (Fig 5).</p>
 
-<img src="https://github.com/Emmanuel461/Introducci-n-a-SNAP/blob/main/Im%C3%A1genes/Fig5.jpg">
+<img src="https://github.com/Emmanuel461/Introducci-n-a-SNAP/blob/main/Im%C3%A1genes/Fig5.png">
 <h4 id="Sección3">Fig 5. Cargar imágenes <strong>Sigma0_VH y Sigma0_VV</strong>.</h4>
 
 <p>Las Imágenes desplegadas en la interfaz de SNAP se visualizan en la Fig 6.</p>
