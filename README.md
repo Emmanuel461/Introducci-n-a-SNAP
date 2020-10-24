@@ -15,9 +15,8 @@ Este proyecto está coordinado por el Dr Edgar Espinoza Cisneros y co-cordinado 
  <li><a href="#Sección2">Objetivos de aprendizaje</a></li>
 
  <h2 id="Sección1>Prerrequisitos"</h2>
-        <p>
-        Para ejecutar esta rutina el usuario debe instalar previamente el software Sentinel Toolbox (SNAP), el cual es un software de procesamiento para el análisis y observación
-        de la tierra, con herramientas enfocadas en extensibilidad de datos, portabilidad, procesamiento en marcos gráficos, entre otras herramientas (ESA, 2020).</p>
+ 
+ <p>Para ejecutar esta rutina el usuario debe instalar previamente el software Sentinel Toolbox (SNAP), el cual es un software de procesamiento para el análisis y observación de la tierra, con herramientas enfocadas en extensibilidad de datos, portabilidad, procesamiento en marcos gráficos, entre otras herramientas (ESA, 2020).</p>
 
 <p> La descarga del software SNAP se puede realizar en la siguiente dirección electrónica</p> 
 <a href="http://step.esa.int/main/download/snap-download/" target="_blank">http://step.esa.int/main/download/snap-download/</a>
