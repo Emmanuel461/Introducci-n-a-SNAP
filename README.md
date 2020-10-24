@@ -32,8 +32,7 @@ Este proyecto está coordinado por el Dr Edgar Espinoza Cisneros y co-cordinado 
 
 
 
-<h2 2.1 Datos a descargar/h2>
-<h3
+<h3 2.1 Datos a descargar/h3>
 <p> Los datos a utilizar en este ejercicio se pueden descargar en el siguiente link: </p>
 <a href="https://www.dropbox.com/sh/xb6nb8qwva3e0l8/AACgAV2tx4xtUFa1QtDZKZxUa?dl=0" target="_blank">https://www.dropbox.com/sh/xb6nb8qwva3e0l8/AACgAV2tx4xtUFa1QtDZKZxUa?dl=0</a>
 
@@ -44,6 +43,6 @@ Este proyecto está coordinado por el Dr Edgar Espinoza Cisneros y co-cordinado 
 <p>Copernicus Open Access Hub<p>
 <p>Buscador de datos:<p> <a href="https://scihub.copernicus.eu/dhus/#/home" target="_blank">https://scihub.copernicus.eu/dhus/#/home</a>
 <p>Registro de cuenta:<p>  <a href="https://scihub.copernicus.eu/dhus/#/self-registration" target="_blank">https://scihub.copernicus.eu/dhus/#/self-registration</a>
-/h3>
+
 
 
