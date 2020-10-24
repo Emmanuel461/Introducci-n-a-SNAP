@@ -9,6 +9,7 @@ Este proyecto está coordinado por el Dr Edgar Espinoza Cisneros y co-cordinado 
 
 <ul>
  <li><a href="#Sección1">Prerrequisitos</a></li>
+ <li><a href="#Sección2">Objetivos de aprendizaje</a></li>
 <ul>
  
 <h3 id="Sección1>Prerrequisitos</h3>
@@ -18,4 +19,7 @@ Para ejecutar esta rutina el usuario debe instalar previamente el software Senti
 </p>
 
 <p> La descarga del software SNAP se puede realizar en la siguiente dirección electrónica</p> 
-
+<p><a href="http://step.esa.int/main/download/snap-download/" target="_blank"> </a>
+ 
+ 
+<h3 id="Objetivos de aprendizaje</h3>
