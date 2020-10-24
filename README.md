@@ -142,7 +142,7 @@ Para visualizar la imagen SAR en RGB debe presionar click derecho sobre el nombr
 <img src="https://github.com/Emmanuel461/Introducci-n-a-SNAP/blob/main/Im%C3%A1genes/Fig17.png">
 <h4 id="Sección3">Fig 17. RGB del área de estudio en dB, retrodispersión en superficie áspera <strong>(1)</strong> (ver Fig 9. círculo 2), retrodispersión de doble rebote en cuerpos de agua <strong>(2)</strong> (ver Fig 9, círculo 1) y retrodispersión de doble rebote en ciudad <strong>(3)</strong> (ver Fig 11).</h4>
 
-<h2 id="Sección1">5. Bibliografía</h2>
+<h2 id="Sección5">5. Bibliografía</h2>
 
 <p> European Space Agency (ESA). (2020). SNAP STEP. <a href="https://step.esa.int/main/toolboxes/snap/ " target="_blank">https://step.esa.int/main/toolboxes/snap/ </a>
 
