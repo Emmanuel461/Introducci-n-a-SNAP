@@ -1,4 +1,4 @@
-# Introducci-n-a-SNAP
+# Introducción a SNAP
 Manual Introductorio a SNAP e Imágenes SAR
 
 <img src="https://github.com/Emmanuel461/Master/Introducci-n-a-SNAP/Imágenes/ucrea.jpg"> <img src="https://github.com/Emmanuel461/Introducci-n-a-SNAP/Imágenes/eg.jpg"> <img src="https://github.com/Emmanuel461/Introducci-n-a-SNAP/Imágenes/ucr.jpg"> <img src="https://github.com/Emmanuel461/Introducci-n-a-SNAP/Imágenes/iica.png">   
