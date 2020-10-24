@@ -56,4 +56,4 @@ Este proyecto está coordinado por el Dr Edgar Espinoza Cisneros y co-cordinado 
 
 <img src="https://github.com/Emmanuel461/Introducci-n-a-SNAP/blob/main/Im%C3%A1genes/Fig1.jpg">
 
-<strong>Fig. 1. Interfaz de la vista general de SNAP.</strong>
+<h1 style="text-align:center;">Centered Heading</h1>
