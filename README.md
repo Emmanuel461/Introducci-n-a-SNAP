@@ -15,7 +15,8 @@ Este proyecto está coordinado por el Dr Edgar Espinoza Cisneros y co-cordinado 
 <li><a href="#Sección1">1. Prerrequisitos</a></li>
 <li><a href="#Sección2">2. Objetivos de aprendizaje</a></li>
 <li><a href="#Sección3">3. Interfaz de Usuario del software SNAP</a></li>
-<li><a href="#Sección4">4. Interpretando una imagen radar.</a></li>
+<li><a href="#Sección4">4. Interpretando una imagen radar</a></li>
+<li><a href="#Sección5">5. Bibliografía</a></li>
 
  
 <h2 id="Sección1">1. Prerrequisitos</h2>
@@ -86,7 +87,7 @@ Abrir archivos en SNAP
 <img src="https://github.com/Emmanuel461/Introducci-n-a-SNAP/blob/main/Im%C3%A1genes/Fig6.png">
 <h4 id="Sección3">Fig 6. Visualización de imágenes. La imagen de la izquierda (A) corresponde a <strong>Sigma0_VH</strong>, la imagen derecha (B) corresponde a<strong>Sigma0_VV</strong>.</h4>
 
-<p>En <strong>View/Tool Windows</strong> se puede añadir a la vista de la interfaz diferentes pestañas para analizar u observar los datos de la imagen (Fig 6).</p>
+<p>En <strong>View/Tool Windows</strong> se puede añadir a la vista de la interfaz diferentes pestañas para analizar u observar los datos de la imagen (Fig 7).</p>
 
 <img src="https://github.com/Emmanuel461/Introducci-n-a-SNAP/blob/main/Im%C3%A1genes/Fig7.png">
 <h4 id="Sección3">Fig 7. Añadir ventanas a la interfaz de inicio de SNAP.</h4>
@@ -97,7 +98,7 @@ Abrir archivos en SNAP
 
 <h2 id="Sección4">4. Interpretando una imagen radar.</h2>
 
-<p> Los sensores radar envían pulsos laterales hasta la superficie del terreno, donde parte de la señal emitida regresa al sensor, este retorno de la señal se conoce como retrodispersión. La intensidad de la retrodispersión está directamente relacionada con el tipo de cobertura y sus características, permitiendo así la clasificación y evaluación del estado de las coberturas.</p>
+<p>Los sensores radar envían pulsos laterales hasta la superficie del terreno, donde parte de la señal emitida regresa al sensor, este retorno de la señal se conoce como retrodispersión. La intensidad de la retrodispersión está directamente relacionada con el tipo de cobertura y sus características, permitiendo así la clasificación y evaluación del estado de las coberturas.</p>
 
 <p> Se suelen distinguir tres grandes tipos de retrodispersión:</p>
 <li>1. Retrodispersión especular (superficies lisas/aguas abiertas)</li>
@@ -122,3 +123,38 @@ Abrir archivos en SNAP
 
 <img src="https://github.com/Emmanuel461/Introducci-n-a-SNAP/blob/main/Im%C3%A1genes/Fig14.png">
 <h4 id="Sección3">Fig 14. RPerfil de valores de retrodispersión, se evidencia de forma gráfica la variación en los valores para la polarización VV, retrodispersión especular (1), retrodispersión en superficie áspera (2) y de doble rebote en área urbana (3).</h4>
+
+
+<h3 ">4.1 RGB de una imagen SAR r</h3> 
+
+<p>Una forma de discriminar visualmente los distintos tipos de retrodispersión en una escena es mediante la creación de un RGB o combinación de bandas. Es preciso mencionar que los distintos valores de retrodispersión están condicionados por una serie de características como la constante dieléctrica, atmosférica y relacionada con la estructura de la cobertura.
+ 
+Para visualizar la imagen SAR en RGB debe presionar click derecho sobre el nombre de la imagen y luego seleccione la opción <strong>Open RGB Image Window</strong>.</p>
+
+<img src="https://github.com/Emmanuel461/Introducci-n-a-SNAP/blob/main/Im%C3%A1genes/Fig15.png">
+<h4 id="Sección3">Fig 15. Abrir opción para creación de RGB de la imagen de trabajo.</h4>
+
+<p>En el recuadro que se despliega seleccione en el canal rojo la banda en polarización VV, en canal verde banda en polarización VH y en el canal azul coloque las bandas VV y VH (Fig 16). Las unidades en cada banda se encuentran en decibeles (dB).</p>
+
+<img src="https://github.com/Emmanuel461/Introducci-n-a-SNAP/blob/main/Im%C3%A1genes/Fig16.png">
+<h4 id="Sección3">Fig 16. Crear RGB.</h4>
+
+<img src="https://github.com/Emmanuel461/Introducci-n-a-SNAP/blob/main/Im%C3%A1genes/Fig17.png">
+<h4 id="Sección3">Fig 17. RGB del área de estudio en dB, retrodispersión en superficie áspera <strong>(1)</strong> (ver Fig 9. círculo 2), retrodispersión de doble rebote en cuerpos de agua <strong>(2)</strong> (ver Fig 9, círculo 1) y retrodispersión de doble rebote en ciudad <strong>(3)</strong> (ver Fig 11).</h4>
+
+<h2 id="Sección1">5. Bibliografía</h2>
+
+<p> European Space Agency (ESA). (2020). SNAP STEP. <a href="https://step.esa.int/main/toolboxes/snap/ " target="_blank">https://step.esa.int/main/toolboxes/snap/ </a>
+
+Recursos adicionales recomendados:</p>
+
+<li><a href="https://www.youtube.com/watch?v=DibAtfHoc6U" target="_blank">https://www.youtube.com/watch?v=DibAtfHoc6U</a></li>
+<li><a href="https://step.esa.int/main/doc/tutorials/" target="_blank">https://step.esa.int/main/doc/tutorials/</a></li>
+<li><a href="https://forum.step.esa.int/" target="_blank">https://forum.step.esa.int/</a></li>
+<li><a href="https://www.youtube.com/watch?v=QdKkTQ7fWH0" target="_blank">https://www.youtube.com/watch?v=QdKkTQ7fWH0</a></li>
+
+<p> Para más detalles puede ver el siguiente video tutorial, donde se ilustran los pasos para ejecutar lo mostrado en este manual </p>
+
+<iframe width="420" height="315"
+src="https://www.youtube.com/watch?v=16UymQJLPG0&t=1s&ab_channel=CURSOSAR-GEOGRAF%C3%8DA">
+</iframe>
