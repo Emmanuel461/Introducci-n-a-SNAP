@@ -14,6 +14,7 @@ Este proyecto está coordinado por el Dr Edgar Espinoza Cisneros y co-cordinado 
 
 <li><a href="#Sección1">1. Prerrequisitos</a></li>
 <li><a href="#Sección2">2. Objetivos de aprendizaje</a></li>
+<li><a href="#Sección3">3. Interfaz de Usuario del software SNAP</a></li>
 
  
 <h2 id="Sección1">1. Prerrequisitos</h2>
@@ -48,4 +49,4 @@ Este proyecto está coordinado por el Dr Edgar Espinoza Cisneros y co-cordinado 
 <p>Registro de cuenta:<p>  <a href="https://scihub.copernicus.eu/dhus/#/self-registration" target="_blank">https://scihub.copernicus.eu/dhus/#/self-registration</a>
 
 
-
+<h2 id="Sección3">3. Interfaz de Usuario del software SNAP</h2>
