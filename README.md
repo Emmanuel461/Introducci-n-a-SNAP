@@ -1,9 +1,10 @@
+<img src="https://github.com/Emmanuel461/Introducci-n-a-SNAP/blob/main/Im%C3%A1genes/ucrea.jpg"> <img src="https://github.com/Emmanuel461/Introducci-n-a-SNAP/blob/main/Im%C3%A1genes/eg.jpg"> <img src="https://github.com/Emmanuel461/Introducci-n-a-SNAP/blob/main/Im%C3%A1genes/ucr.jpg"> <img src="https://github.com/Emmanuel461/Introducci-n-a-SNAP/blob/main/Im%C3%A1genes/iica.png">
+
 # Introducción a SNAP
+
 Manual Introductorio a SNAP e Imágenes SAR
 
-<img src="https://github.com/Emmanuel461/Master/Introducci-n-a-SNAP/Imágenes/ucrea.jpg"> <img src="https://github.com/Emmanuel461/Introducci-n-a-SNAP/Imágenes/eg.jpg"> <img src="https://github.com/Emmanuel461/Introducci-n-a-SNAP/Imágenes/ucr.jpg"> <img src="https://github.com/Emmanuel461/Introducci-n-a-SNAP/Imágenes/iica.png">   
 
-<img src="https://github.com/Emmanuel461/Introducci-n-a-SNAP/blob/main/Im%C3%A1genes/eg.jpg" alt="Italian Trulli">
 
 <h1 style="font-size:300%;">Manual de Introducción a SNAP e Imágenes SAR</h1> 
 
