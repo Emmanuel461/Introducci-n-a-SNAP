@@ -148,14 +148,16 @@ Para visualizar la imagen SAR en RGB debe presionar click derecho sobre el nombr
 
 Recursos adicionales recomendados:</p>
 
-<li><a href="https://www.youtube.com/watch?v=DibAtfHoc6U" target="_blank">https://www.youtube.com/watch?v=DibAtfHoc6U</a></li>
+<p><li><a href="https://www.youtube.com/watch?v=DibAtfHoc6U" target="_blank">https://www.youtube.com/watch?v=DibAtfHoc6U</a></li>
 <li><a href="https://step.esa.int/main/doc/tutorials/" target="_blank">https://step.esa.int/main/doc/tutorials/</a></li>
 <li><a href="https://forum.step.esa.int/" target="_blank">https://forum.step.esa.int/</a></li>
-<li><a href="https://www.youtube.com/watch?v=QdKkTQ7fWH0" target="_blank">https://www.youtube.com/watch?v=QdKkTQ7fWH0</a></li>
+<li><a href="https://www.youtube.com/watch?v=QdKkTQ7fWH0" target="_blank">https://www.youtube.com/watch?v=QdKkTQ7fWH0</a></li></p>
 
 
 
 
- <p> Para más detalles puede ver el siguiente video tutorial, donde se ilustran los pasos para ejecutar lo mostrado en este manual </p>
-<p> </p> 
+<p> Para más detalles puede ver el siguiente video tutorial, donde se ilustran los pasos para ejecutar lo mostrado en este manual 
+
+</p>
+
 [![Taller de Introducción a SNAP](https://github.com/Emmanuel461/Introducci-n-a-SNAP/raw/main/Im%C3%A1genes/Fig19.png)](https://www.youtube.com/watch?v=16UymQJLPG0&t=1s&ab_channel=CURSOSAR-GEOGRAF%C3%8DA "Taller de Introducción a SNAP")
