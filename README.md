@@ -57,3 +57,16 @@ Este proyecto está coordinado por el Dr Edgar Espinoza Cisneros y co-cordinado 
 <img src="https://github.com/Emmanuel461/Introducci-n-a-SNAP/blob/main/Im%C3%A1genes/Fig1.jpg">
 
 <h4 id="Sección3">Fig. 1. Interfaz de la vista general de SNAP.</h4>
+
+Abrir archivos en SNAP
+<p>Los archivos se pueden abrir mediante: File/Open Product… o seleccionando <img src="https://github.com/Emmanuel461/Introducci-n-a-SNAP/blob/main/Im%C3%A1genes/Fig18.png"> (Fig 2).</p> 
+
+<img src="https://github.com/Emmanuel461/Introducci-n-a-SNAP/blob/main/Im%C3%A1genes/Fig2.jpg">
+
+<h4 id="Sección3">Fig. 2. Abrir archivos en SNAP.</h4>
+
+<p>Se debe tener claro el tipo de archivo que se desea abrir, en la sección Files of type debe identificar el formato de información que desea manejar(flecha roja) (Fig 3). Finalmente debe seleccionar y abrir el archivo de interés.</p>
+
+<img src="https://github.com/Emmanuel461/Introducci-n-a-SNAP/blob/main/Im%C3%A1genes/Fig3.jpg">
+<h4 id="Sección3">Fig 3.Búsqueda del archivo de interés y la selección de formato.</h4>
+
