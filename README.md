@@ -104,7 +104,7 @@ Abrir archivos en SNAP
 <li>1. Retrodispersión especular (superficies lisas/aguas abiertas)</li>
 <li>2. Retrodispersión por volumen (dosel del bosque)</li>
 <li>3. Retrodispersión por doble rebote (bosques/ infraestructura/ suelos muy rugosos y húmedos)</li>
-
+</p>
 
 <img src="https://github.com/Emmanuel461/Introducci-n-a-SNAP/blob/main/Im%C3%A1genes/Fig9.png">
 <h4 id="Sección3">Fig 9. Tipos de respuesta en la retrodispersión según características de la cobertura.</h4>
@@ -122,10 +122,10 @@ Abrir archivos en SNAP
 <h4 id="Sección3">Fig 13. Retrodispersión de doble rebote en área urbana.</h4>
 
 <img src="https://github.com/Emmanuel461/Introducci-n-a-SNAP/blob/main/Im%C3%A1genes/Fig14.png">
-<h4 id="Sección3">Fig 14. RPerfil de valores de retrodispersión, se evidencia de forma gráfica la variación en los valores para la polarización VV, retrodispersión especular (1), retrodispersión en superficie áspera (2) y de doble rebote en área urbana (3).</h4>
+<h4 id="Sección3">Fig 14.Perfil de valores de retrodispersión, se evidencia de forma gráfica la variación en los valores para la polarización VV, retrodispersión especular (1), retrodispersión en superficie áspera (2) y de doble rebote en área urbana (3).</h4>
 
 
-<h3 ">4.1 RGB de una imagen SAR r</h3> 
+<h3 ">4.1 RGB de una imagen SAR</h3> 
 
 <p>Una forma de discriminar visualmente los distintos tipos de retrodispersión en una escena es mediante la creación de un RGB o combinación de bandas. Es preciso mencionar que los distintos valores de retrodispersión están condicionados por una serie de características como la constante dieléctrica, atmosférica y relacionada con la estructura de la cobertura.
  
