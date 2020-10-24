@@ -23,8 +23,8 @@ Este proyecto está coordinado por el Dr Edgar Espinoza Cisneros y co-cordinado 
  
 <p>Para ejecutar esta rutina el usuario debe instalar previamente el software Sentinel Toolbox (SNAP), el cual es un software de procesamiento para el análisis y observación de la tierra, con herramientas enfocadas en extensibilidad de datos, portabilidad, procesamiento en marcos gráficos, entre otras herramientas (ESA, 2020).</p>
 
-<p> La descarga del software SNAP se puede realizar en la siguiente dirección electrónica</p> 
-<a href="http://step.esa.int/main/download/snap-download/" target="_blank">http://step.esa.int/main/download/snap-download/</a>
+<p> La descarga del software SNAP se puede realizar en la siguiente dirección electrónica </p> 
+<a href="http://step.esa.int/main/download/snap-download/" target="_blank">http://step.esa.int/main/download/snap-download/</a> 
  
   
 <h2 id="Sección2">2. Objetivos de aprendizaje</h2> 
@@ -157,5 +157,5 @@ Recursos adicionales recomendados:</p>
 
 
  <p> Para más detalles puede ver el siguiente video tutorial, donde se ilustran los pasos para ejecutar lo mostrado en este manual </p>
-
+<p> </p> 
 [![Taller de Introducción a SNAP](https://github.com/Emmanuel461/Introducci-n-a-SNAP/raw/main/Im%C3%A1genes/Fig19.png)](https://www.youtube.com/watch?v=16UymQJLPG0&t=1s&ab_channel=CURSOSAR-GEOGRAF%C3%8DA "Taller de Introducción a SNAP")
