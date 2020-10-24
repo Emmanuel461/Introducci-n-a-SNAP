@@ -76,3 +76,24 @@ Abrir archivos en SNAP
 <h4 id="Sección3">Fig 4. Resultado de cargar una imagen a SNAP. En el recuadro rojo se marca el espacio que cubre la imagen descargada</h4>
 
 <p>Para visualizar la imagen radar, presione doble click sobre cada una de las bandas <strong>Sigma0_VH y Sigma0_VV</strong> (Fig 5).</p>
+
+<img src="https://github.com/Emmanuel461/Introducci-n-a-SNAP/blob/main/Im%C3%A1genes/Fig5.jpg">
+<h4 id="Sección3">Fig 5. Cargar imágenes <strong>Sigma0_VH y Sigma0_VV</strong>.</h4>
+
+<p>Las Imágenes desplegadas en la interfaz de SNAP se visualizan en la Fig 6.</p>
+
+<img src="https://github.com/Emmanuel461/Introducci-n-a-SNAP/blob/main/Im%C3%A1genes/Fig6.png">
+<h4 id="Sección3">Fig 6. Visualización de imágenes. La imagen de la izquierda (A) corresponde a <strong>Sigma0_VH</strong>, la imagen derecha (B) corresponde a<strong>Sigma0_VV</strong>.</h4>
+
+<p>En <strong>View/Tool Windows</strong> se puede añadir a la vista de la interfaz diferentes pestañas para analizar u observar los datos de la imagen (Fig 6).</p>
+
+<img src="https://github.com/Emmanuel461/Introducci-n-a-SNAP/blob/main/Im%C3%A1genes/Fig7.png">
+<h4 id="Sección3">Fig 7. Añadir ventanas a la interfaz de inicio de SNAP.</strong>.</h4>
+
+<p> El software contiene una caja de herramienta/Toolbox para el preprocesamiento y procesamiento especializado de imágenes radar (Radar) (Fig 8).</p>
+<img src="https://github.com/Emmanuel461/Introducci-n-a-SNAP/blob/main/Im%C3%A1genes/Fig8.png">
+<h4 id="Sección3">Fig 8. Toolbox Radar en SNAP.</strong>.</h4>
+
+
+
+
