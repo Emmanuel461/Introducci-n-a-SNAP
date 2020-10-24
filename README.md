@@ -21,7 +21,7 @@ Este proyecto está coordinado por el Dr Edgar Espinoza Cisneros y co-cordinado 
 <p><a href="http://step.esa.int/main/download/snap-download/" target="_blank"> </a>
  
  
-<h3 id="Objetivos de aprendizaje</h3>
+<h3 id="Sección2>Objetivos de aprendizaje</h3>
         <ul>
 <li>-Explorar la interfaz del software SNAP.</li>
 <li>Visualizar imágenes del radar Sentinel 1</li>
