@@ -13,7 +13,7 @@ Este proyecto está coordinado por el Dr Edgar Espinoza Cisneros y co-cordinado 
 <ul>
  <li><a href="#Sección1">Prerrequisitos</a></li>
  <li><a href="#Sección2">Objetivos de aprendizaje</a></li>
-
+<ul>
  
 <h3 id="Sección1>Prerrequisitos</h3>
         <p>
