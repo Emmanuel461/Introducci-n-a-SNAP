@@ -9,6 +9,6 @@ Este proyecto está coordinado por el Dr Edgar Espinoza Cisneros y co-cordinado 
 
 <ul>
 <li>ca href="#Sección1">Prerrequisitos</a></li>
-   
+<ul>
  
 <h3 id="Sección1>Prerrequisitos</h3>
