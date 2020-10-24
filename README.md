@@ -15,6 +15,7 @@ Este proyecto está coordinado por el Dr Edgar Espinoza Cisneros y co-cordinado 
 <li><a href="#Sección1">1. Prerrequisitos</a></li>
 <li><a href="#Sección2">2. Objetivos de aprendizaje</a></li>
 <li><a href="#Sección3">3. Interfaz de Usuario del software SNAP</a></li>
+<li><a href="#Sección4">4. Interpretando una imagen radar.</a></li>
 
  
 <h2 id="Sección1">1. Prerrequisitos</h2>
@@ -94,6 +95,6 @@ Abrir archivos en SNAP
 <img src="https://github.com/Emmanuel461/Introducci-n-a-SNAP/blob/main/Im%C3%A1genes/Fig8.png">
 <h4 id="Sección3">Fig 8. Toolbox Radar en SNAP.</strong>.</h4>
 
-
+<h2 id="Sección4">4. Interpretando una imagen radar.</h2>
 
 
