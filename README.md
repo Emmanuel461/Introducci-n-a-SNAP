@@ -8,7 +8,7 @@
 Este proyecto está coordinado por el Dr Edgar Espinoza Cisneros y co-cordinado por MSc María José Molina Montero. Para mayor información contactar a maria.molinamontero@ucr.ac.cr .</p>
 
 <ul>
-<li>ca href="#Sección1">Prerrequisitos</a></li>
+<li><a href="#Sección1">Prerrequisitos</a></li>
 <ul>
  
 <h3 id="Sección1>Prerrequisitos</h3>
