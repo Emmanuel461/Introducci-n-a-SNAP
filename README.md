@@ -12,8 +12,8 @@ Este proyecto está coordinado por el Dr Edgar Espinoza Cisneros y co-cordinado 
 <p> Índice </p> 
 
 
-<li><a href="#Sección1">Prerrequisitos</a></li>
-<li><a href="#Sección2">Objetivos de aprendizaje</a></li>
+<li><a href="#Sección1">1.Prerrequisitos</a></li>
+<li><a href="#Sección2">2.Objetivos de aprendizaje</a></li>
 
  
 <h2 id="Sección1">Prerrequisitos</h2>
