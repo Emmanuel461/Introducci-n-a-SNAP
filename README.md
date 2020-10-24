@@ -23,3 +23,6 @@ Este proyecto está coordinado por el Dr Edgar Espinoza Cisneros y co-cordinado 
  
 <h3 id="Objetivos de aprendizaje</h3>
         <ul>
+<li>-Explorar la interfaz del software SNAP.</li>
+<li>Visualizar imágenes del radar Sentinel 1</li>
+<li>Describir las características básicas de una imagen radar.</li>
