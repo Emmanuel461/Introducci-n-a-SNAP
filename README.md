@@ -97,4 +97,27 @@ Abrir archivos en SNAP
 
 <h2 id="Sección4">4. Interpretando una imagen radar.</h2>
 
+<p> Los sensores radar envían pulsos laterales hasta la superficie del terreno, donde parte de la señal emitida regresa al sensor, este retorno de la señal se conoce como retrodispersión. La intensidad de la retrodispersión está directamente relacionada con el tipo de cobertura y sus características, permitiendo así la clasificación y evaluación del estado de las coberturas.</p>
 
+<p> Se suelen distinguir tres grandes tipos de retrodispersión:</p>
+<li>1. Retrodispersión especular (superficies lisas/aguas abiertas)</li>
+<li>2. Retrodispersión por volumen (dosel del bosque)</li>
+<li>3. Retrodispersión por doble rebote (bosques/ infraestructura/ suelos muy rugosos y húmedos)</li>
+
+<img src="https://github.com/Emmanuel461/Introducci-n-a-SNAP/blob/main/Im%C3%A1genes/Fig9.png">
+<h4 id="Sección3">Fig 9. Tipos de respuesta en la retrodispersión según características de la cobertura.</strong>.</h4>
+
+<img src="https://github.com/Emmanuel461/Introducci-n-a-SNAP/blob/main/Im%C3%A1genes/Fig10.png">
+<h4 id="Sección3">Fig 10. Retrodispersión especular (1), de superficie áspera (2) y por volumen (3).</strong>.</h4>
+
+<img src="https://github.com/Emmanuel461/Introducci-n-a-SNAP/blob/main/Im%C3%A1genes/Fig11.png">
+<h4 id="Sección3">Fig 11. Retrodispersión en superficie áspera en aparente condición de suelo seco..</strong>.</h4>
+
+<img src="https://github.com/Emmanuel461/Introducci-n-a-SNAP/blob/main/Im%C3%A1genes/Fig12.png">
+<h4 id="Sección3">Fig 12. Retrodispersión de doble rebote en bosque ribereño.</strong>.</h4>
+
+<img src="https://github.com/Emmanuel461/Introducci-n-a-SNAP/blob/main/Im%C3%A1genes/Fig13.png">
+<h4 id="Sección3">Fig 13. Retrodispersión de doble rebote en área urbana.</strong>.</h4>
+
+<img src="https://github.com/Emmanuel461/Introducci-n-a-SNAP/blob/main/Im%C3%A1genes/Fig14.png">
+<h4 id="Sección3">Fig 14. RPerfil de valores de retrodispersión, se evidencia de forma gráfica la variación en los valores para la polarización VV, retrodispersión especular (1), retrodispersión en superficie áspera (2) y de doble rebote en área urbana (3).</strong>.</h4>
