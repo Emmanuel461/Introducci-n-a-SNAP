@@ -21,7 +21,7 @@ Este proyecto está coordinado por el Dr Edgar Espinoza Cisneros y co-cordinado 
         de la tierra, con herramientas enfocadas en extensibilidad de datos, portabilidad, procesamiento en marcos gráficos, entre otras herramientas (ESA, 2020).</p>
 
 <p> La descarga del software SNAP se puede realizar en la siguiente dirección electrónica</p> 
-<p><a href="http://step.esa.int/main/download/snap-download/" target="_blank"> </a>
+<p><a href="http://step.esa.int/main/download/snap-download/" target="_blank">Visit W3Schools!</a>
  
  
 <h3 id="Sección2>Objetivos de aprendizaje</h3>
